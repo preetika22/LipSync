@@ -10,4 +10,4 @@ This project has been built on google colab. To use this model follow the steps 
    This model was cloned from this link https://github.com/Rudrabha/Wav2Lip.
    Wav2lip is a model that requires a face to be present in every frame in order to lip sync accurately.
 
-   Result folder link :- https://drive.google.com/drive/folders/1bI82znvNMKSmMlqIcX_p19V0WQUUDjN9?usp=sharing
+  
